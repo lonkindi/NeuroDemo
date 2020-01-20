@@ -17,7 +17,7 @@
 ```
 *git version 2.25.0.windows.1
 *google chrome Версия 79.0.3945.117 (Официальная сборка), (64 бит)
-*https://github.com/lonkindi
+*[пример профиля на GitHub](https://github.com/lonkindi)
 ```
 
 ### Установка и запуск
@@ -26,7 +26,7 @@
 создавайте, сливайте ветки, разрешайте конфиликты, в случае необходимости
 
 ```
-https://github.com/lonkindi/NeuroDemo
+[репозиторий NeuroStartUp](https://github.com/lonkindi/NeuroDemo)
 ```
 
 ## Лицензия
